@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "make a trip",
+      "day": "monday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "rhwrjwtjt",
+      "day": "aharhrah",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "rhahaqrh",
+      "day": "rharharh",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "bwsrhwtj",
+      "day": "stjstjstjstj",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
